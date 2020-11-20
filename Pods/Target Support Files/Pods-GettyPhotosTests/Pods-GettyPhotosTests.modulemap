@@ -1,0 +1,6 @@
+framework module Pods_GettyPhotosTests {
+  umbrella header "Pods-GettyPhotosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
